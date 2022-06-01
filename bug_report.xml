@@ -1,1 +1,17 @@
-
+<BUG_REPORT>
+    <Project>Test</Project>
+    <Issue_type>Bug</Issue_type>
+    <Summary>Add a short, bug name that answers questions: What? Where? When?</Summary>
+    <Description>
+        <Steps>
+            <1>Go to site ...</1>
+            <2>Click on the button</2>
+            <3>In the 'E-mail' field, enter 'testgmail.com'</3>
+        </Steps>
+        <Result>No errors, email entered correctly</Result>
+        <Expected_Result>I get an error that the @ sign is missing</Expected_Result>
+        <Environment>Windows 11 x64, Google Chrome v.5.5.5.5</Environment>
+        <Attachments>Add screenshot or(and) video</Attachments>
+    </Description>
+    <Reporter>Vladimir Litvyakov</Reporter>
+</BUG_REPORT>
